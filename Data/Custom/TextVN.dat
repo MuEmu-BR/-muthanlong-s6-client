@@ -1,0 +1,568 @@
+// --------------------------------------------------------------------------------------------------------------------------------
+//               (DEV ANUBIS-TEAM)(SDT : 0782229639)(FACEBOOK : https://www.facebook.com/cuocdoikhongtien1996)
+// --------------------------------------------------------------------------------------------------------------------------------
+[TextVN]
+TextVN0  =	Menu Game
+TextVN1  =	Bảng Xếp Hạng
+TextVN2  =	Treo Máy Offline
+TextVN3  =	Tạo Party
+TextVN4  =	Tìm Party
+TextVN5  =	Vòng Quay May Mắn
+TextVN6  =  Phần Thưởng
+TextVN7  =	Yêu Cầu %d WCoinC
+TextVN8  =	Quay
+TextVN9  =	Ngân Hàng Ngọc
+TextVN10 =	Ngọc Hỗn Nguyên
+TextVN11 =	Ngọc Ước Nguyện
+TextVN12 =	Ngọc Tâm Linh
+TextVN13 =	Ngọc Sinh Mệnh
+TextVN14 =	Ngọc Sáng Tạo
+TextVN15 =	Đá Hộ Mệnh
+TextVN16 =	Đá Tạo Hóa
+TextVN17 =	Đá Tinh Luyện Thấp
+TextVN18 =	Đá Tinh Luyện Cao
+TextVN19 =	Đá Nguyên Thủy
+TextVN20 =	Đổi Giới Tính
+TextVN21 =	Hệ Thống Danh Hiệu
+TextVN22 =	Đổi Giới Tính
+TextVN23 =	Hệ Thống Danh Hiệu
+TextVN24 =	Vip Tài Khoản
+TextVN25 =	Vip Nhân Vật
+TextVN26 =	Danh Hiệu
+TextVN27 =	Quân Hàm
+TextVN28 =	Tu Luyện
+TextVN29 =	Kinh Mạch
+TextVN30 =	Ngũ Hành
+TextVN31 =	Thuần Khiết
+TextVN32 =	Hệ thống cửa hàng VIP Tài Khoản, chào %s!
+TextVN33 =	_______________________________________________________________
+TextVN34 =	Thông Tin Vip Tài Khoản
+TextVN35 =	Lựa Chọn Vip Tài Khoản
+TextVN36 =	Vip Đồng
+TextVN37  =	Vip Bạc
+TextVN38  =	Vip Vàng
+TextVN39  =	Tất cả tỷ lệ đập đồ tăng + 20%%!
+TextVN40  =	Exp được cộng tính cho cả cấp Master!
+TextVN41  =	Không có tác dụng khi party!
+TextVN42 =	Name                 Exp                   Drop                  Time                  WCoinC
+TextVN43 =  Vip Đồng          +10%%              +10%%               1 Ngày                7000
+TextVN44 =  Vip Bạc             +20%%              +20%%               3 Ngày                20000
+TextVN45 =  Vip Vàng           +30%%              +30%%               7 Ngày                45000
+TextVN46  =	Hệ thống cửa hàng VIP Nhân Vật, chào %s!
+TextVN47  =	_______________________________________________________________
+TextVN48  =	Thông Tin Vip Nhân Vật
+TextVN49  =	Lựa Chọn Vip Nhân Vật
+TextVN50  =	Vip Đồng
+TextVN51  =	Vip Bạc
+TextVN52  =	Vip Vàng
+TextVN53  =	Vip Kim Cương
+TextVN54  =	Tỉ lệ sát thương hoàn hảo tăng:
+TextVN55  =	Tỉ lệ ra đòn sát thương chí mạng tăng:
+TextVN56  =	Tỉ lể x2 dame tăng:
+TextVN57  = Sát thương tăng:
+TextVN58  = Thể lực tăng:
+TextVN59  = SD tăng:
+TextVN60  = WCoin = 
+TextVN61  =	Tỉ lệ sát thương hoàn hảo tăng: + 5
+TextVN62  =	Tỉ lệ ra đòn sát thương chí mạng tăng: + 5
+TextVN63  =	Tỉ lể x2 dame tăng: + 5
+TextVN64  = Sát thương tăng: + 50
+TextVN65  = Thể lực tăng: + 10000
+TextVN66  = SD tăng: + 10000
+TextVN67  = WCoin = 10000
+TextVN68  =	Tỉ lệ sát thương hoàn hảo tăng: + 6
+TextVN69  =	Tỉ lệ ra đòn sát thương chí mạng tăng: + 10
+TextVN70  =	Tỉ lể x2 dame tăng: + 10
+TextVN71  = Sát thương tăng: + 70
+TextVN72  = Thể lực tăng: + 20000
+TextVN73  = SD tăng: + 20000
+TextVN74  = WCoin = 20000
+TextVN75  =	Tỉ lệ sát thương hoàn hảo tăng: + 7
+TextVN76  =	Tỉ lệ ra đòn sát thương chí mạng tăng: + 15
+TextVN77  =	Tỉ lể x2 dame tăng: + 15
+TextVN78  = Sát thương tăng: + 90
+TextVN79  = Thể lực tăng: + 30000
+TextVN80  = SD tăng: + 30000
+TextVN81  = WCoin = 30000
+TextVN82  =	Tỉ lệ sát thương hoàn hảo tăng: + 10
+TextVN83  =	Tỉ lệ ra đòn sát thương chí mạng tăng: + 20
+TextVN84  =	Tỉ lể x2 dame tăng: + 20
+TextVN85  = Sát thương tăng: + 150
+TextVN86  = Thể lực tăng: + 50000
+TextVN87  = SD tăng: + 50000
+TextVN88  = WCoin = 50000
+TextVN89  = Thuê
+TextVN90  =	Tỉ lệ sát thương hoàn hảo tăng + %d
+TextVN91  =	Tỉ lệ ra đòn sát thương chí mạng tăng + %d
+TextVN92  =	Tỉ lể x2 dame tăng + %d
+TextVN93  = Sát thương tăng + %d
+TextVN94  = Thể lực tăng + %d
+TextVN95  = SD tăng + %d
+TextVN96  = WCoin = %d / 1 Lần
+TextVN97  = Danh Hiệu Hiện Tại
+TextVN98  = Danh Hiệu Tiếp Theo
+TextVN99  = Hệ thống cửa hàng Tu Luyện, chào %s!
+TextVN100 = Cấp độ hiện tại :
+TextVN101 = Tăng hiệu ứng Sét, Lửa, Độc, Băng
+TextVN102 = Nâng cấp
+TextVN103 = Sát thương + 500
+TextVN104 = Thể lực + 50000
+TextVN105 = Thời gian 1 ngày
+TextVN106 = Yêu cầu 100000 WCoinC
+TextVN107 = Phòng thủ + 100
+TextVN108 = SD + 50000
+TextVN109 = Thời gian 1 ngày
+TextVN110 = Yêu cầu 100000 WCoinC
+TextVN111 = Yêu cầu               Tối đa %d
+TextVN112 = Sát thương + %d
+TextVN113 = Sát thương kĩ năng + %d
+TextVN114 = Phòng thủ + %d
+TextVN115 = Giảm sát thương + %d
+TextVN116 = SD + %d
+TextVN117 = Thể lực + %d
+TextVN118 = Bỏ qua tỷ lệ phòng thủ + %d
+TextVN119 = Kinh nghiệm + %d
+TextVN120 = Cấp độ %d / %d
+TextVN121 = Kim
+TextVN122 = Mộc
+TextVN123 = Thủy
+TextVN124 = Hỏa
+TextVN125 = Thổ
+TextVN126  = Tên
+TextVN127  = Kill
+TextVN128  = Phần Thưởng
+TextVN129  = _______________________________________________________________
+TextVN130 = Nhận
+TextVN131 = %d / %d
+TextVN132 = %s
+TextVN133 = Xóa đồ
+TextVN134 = Đồng ý
+TextVN135 = Từ chối
+TextVN136 = Xóa hòm đồ
+TextVN137 = Chú ý đồ giá trị!
+TextVN138 = Resets
+TextVN139 = Tự Đánh
+TextVN140 = Tính năng
+TextVN141 = 
+TextVN142 = ResetLife
+TextVN143 = Yêu cầu Level %d, Reset %d
+TextVN144 = Điểm + %d , ResetLife = %d / %d
+TextVN145 = Làm nhiệm vụ
+TextVN146 = Thăng cấp nhân vật Master!
+TextVN147 = Tẩy điểm Master
+TextVN148 = WCoinC yêu cầu = %d
+TextVN149 = Tẩy điểm
+TextVN150 = Triệu hồi đệ tử
+TextVN151 = Tăng sát thương + thể lực
+//---------------------------------
+TextVN152 = Trang sức
+TextVN153 = Nâng cấp
+TextVN154 = Dây chuyền trái tim
+TextVN155 = Nhẫn trái tim
+TextVN156 = Dây chuyền mắt xanh
+TextVN157 = Nhẫn mắt xanh
+
+TextVN158 = Dây chuyền trái tim + %d / 15
+TextVN159 = Nhẫn trái tim + %d / 15		
+TextVN160 = Dây chuyền mắt xanh + %d / 15
+TextVN161 = Nhẫn mắt xanh + %d / 15
+
+TextVN162 = Tham gia
+
+TextVN204 = F5 : Bật-Tắt Danh Hiệu
+TextVN205 = Phím H : Ngân Hàng Ngọc
+TextVN206 = Phím J : Thời gian Event
+TextVN207 = F6 : Bật-Tắt AntiLag[1] , F7 : Bật-Tắt AntiLag[2]
+TextVN208 = Phím K : Ẩn nhân vật
+TextVN209 = Phát triển bởi TDA-Team!
+
+//======================================================
+[TextVN_SachThuocTinh]
+TextVN_SachThuocTinh0  = Sách thuộc tính
+TextVN_SachThuocTinh1  = Sách thuộc tính kích hoạt
+TextVN_SachThuocTinh2  = X3 Dame + %d
+TextVN_SachThuocTinh3  = Bạo Kích + %d
+TextVN_SachThuocTinh4  = Phản Hồi + %d
+TextVN_SachThuocTinh5  = Chống Choáng + %d
+TextVN_SachThuocTinh6  = Sát Thương + %d
+TextVN_SachThuocTinh7  = Loại bỏ phòng ngự + %d
+TextVN_SachThuocTinh8  = Phòng thủ thành công + %d
+TextVN_SachThuocTinh9  = Phòng thủ toàn phần + %d
+TextVN_SachThuocTinh10 = Sức manh + %d
+TextVN_SachThuocTinh11 = Nhanh nhẹn + %d
+TextVN_SachThuocTinh12 = Thể lực + %d
+TextVN_SachThuocTinh13 = Năng lượng + %d
+TextVN_SachThuocTinh14 = Sách %d / %d
+TextVN_SachThuocTinh15 = Thuộc tính
+TextVN_SachThuocTinh16 = Cấp Độ
+TextVN_SachThuocTinh17 = Thông tin option
+//======================================================
+[TextVN_PhuKien]
+TextVN_PhuKien0  = 
+TextVN_PhuKien2  = Độ bền:[Vĩnh viễn]
+TextVN_PhuKien3  = Kháng bạo kích 1%%
+TextVN_PhuKien4  = Cấp độ yêu cầu: 0
+TextVN_PhuKien5  = "Gia tăng Lượng HP lên +%d%%"
+TextVN_PhuKien6  = "Gia tăng Lượng Mana lên +%d%%"
+TextVN_PhuKien7  = "Giảm sức sát thương +%d%%"
+TextVN_PhuKien8  = "Phản hồi +%d%% lực tấn công"
+TextVN_PhuKien9  = "Khả năng tránh đòn +%d%%"
+TextVN_PhuKien10 = "Tấn công tuyệt chiêu +%d"
+TextVN_PhuKien11 = "Tăng tỉ lệ sát thương hoàn hảo +%d%%"
+TextVN_PhuKien19 = [Phụ Kiện] Mắt Quỷ +%d
+TextVN_PhuKien20 = [Phụ Kiện] Mắt Hổ +%d
+//======================================================
+[TextVN_DanhHieu]
+
+TextVN_DanhHieu0 =	Yêu cầu
+TextVN_DanhHieu1 =	%d WCoinC
+TextVN_DanhHieu2 =  1 lần nâng cấp
+TextVN_DanhHieu3 =	Nâng cấp Danh Hiệu
+TextVN_DanhHieu4 =	Cấp độ %d / 16
+TextVN_DanhHieu5 =	%d / 500000
+//======================================================
+TextVN_DanhHieu6 =	Sát thương + 100
+TextVN_DanhHieu7 =	Tỷ lệ sát thương x2 + 1
+TextVN_DanhHieu8 =	Tăng phòng thủ + 1
+TextVN_DanhHieu9 =	Tăng thể lực + 1000
+TextVN_DanhHieu10 =	Tăng SD + 1000
+//======================================================
+TextVN_DanhHieu11 =	Sát thương + 200
+TextVN_DanhHieu12 =	Tỷ lệ sát thương x2 + 2
+TextVN_DanhHieu13 =	Tăng phòng thủ + 2
+TextVN_DanhHieu14 =	Tăng thể lực + 2000
+TextVN_DanhHieu15 =	Tăng SD + 2000
+//======================================================
+TextVN_DanhHieu16 =	Sát thương + 300
+TextVN_DanhHieu17 =	Tỷ lệ sát thương x2 + 3
+TextVN_DanhHieu18 =	Tăng phòng thủ + 3
+TextVN_DanhHieu19 =	Tăng thể lực + 3000
+TextVN_DanhHieu20 =	Tăng SD + 3000
+//======================================================
+TextVN_DanhHieu21 =	Sát thương + 400
+TextVN_DanhHieu22 =	Tỷ lệ sát thương x2 + 4
+TextVN_DanhHieu23 =	Tăng phòng thủ + 4
+TextVN_DanhHieu24 =	Tăng thể lực + 4000
+TextVN_DanhHieu25 =	Tăng SD + 4000
+//======================================================
+TextVN_DanhHieu26 =	Sát thương + 500
+TextVN_DanhHieu27 =	Tỷ lệ sát thương x2 + 5
+TextVN_DanhHieu28 =	Tăng phòng thủ + 5
+TextVN_DanhHieu29 =	Tăng thể lực + 5000
+TextVN_DanhHieu30 =	Tăng SD + 5000
+//======================================================
+TextVN_DanhHieu31 =	Sát thương + 600
+TextVN_DanhHieu32 =	Tỷ lệ sát thương x2 + 6
+TextVN_DanhHieu33 =	Tăng phòng thủ + 6
+TextVN_DanhHieu34 =	Tăng thể lực + 6000
+TextVN_DanhHieu35 =	Tăng SD + 6000
+//======================================================
+TextVN_DanhHieu36 =	Sát thương + 700
+TextVN_DanhHieu37 =	Tỷ lệ sát thương x2 + 7
+TextVN_DanhHieu38 =	Tăng phòng thủ + 7
+TextVN_DanhHieu39 =	Tăng thể lực + 7000
+TextVN_DanhHieu40 =	Tăng SD + 7000
+//======================================================
+TextVN_DanhHieu41 =	Sát thương + 800
+TextVN_DanhHieu42 =	Tỷ lệ sát thương x2 + 8
+TextVN_DanhHieu43 =	Tăng phòng thủ + 8
+TextVN_DanhHieu44 =	Tăng thể lực + 8000
+TextVN_DanhHieu45 =	Tăng SD + 8000
+//======================================================
+TextVN_DanhHieu46 =	Sát thương + 900
+TextVN_DanhHieu47 =	Tỷ lệ sát thương x2 + 9
+TextVN_DanhHieu48 =	Tăng phòng thủ + 9
+TextVN_DanhHieu49 =	Tăng thể lực + 9000
+TextVN_DanhHieu50 =	Tăng SD + 9000
+//======================================================
+TextVN_DanhHieu51 =	Sát thương + 1000
+TextVN_DanhHieu52 =	Tỷ lệ sát thương x2 + 10
+TextVN_DanhHieu53 =	Tăng phòng thủ + 10
+TextVN_DanhHieu54 =	Tăng thể lực + 10000
+TextVN_DanhHieu55 =	Tăng SD + 10000
+//======================================================
+TextVN_DanhHieu56 =	Sát thương + 1100
+TextVN_DanhHieu57 =	Tỷ lệ sát thương x2 + 11
+TextVN_DanhHieu58 =	Tăng phòng thủ + 11
+TextVN_DanhHieu59 =	Tăng thể lực + 11000
+TextVN_DanhHieu60 =	Tăng SD + 11000
+//======================================================
+TextVN_DanhHieu61 =	Sát thương + 1200
+TextVN_DanhHieu62 =	Tỷ lệ sát thương x2 + 12
+TextVN_DanhHieu63 =	Tăng phòng thủ + 12
+TextVN_DanhHieu64 =	Tăng thể lực + 12000
+TextVN_DanhHieu65 =	Tăng SD + 12000
+//======================================================
+TextVN_DanhHieu66 =	Sát thương + 1300
+TextVN_DanhHieu67 =	Tỷ lệ sát thương x2 + 13
+TextVN_DanhHieu68 =	Tăng phòng thủ + 13
+TextVN_DanhHieu69 =	Tăng thể lực + 13000
+TextVN_DanhHieu70 =	Tăng SD + 13000
+//======================================================
+TextVN_DanhHieu71 =	Sát thương + 1400
+TextVN_DanhHieu72 =	Tỷ lệ sát thương x2 + 14
+TextVN_DanhHieu73 =	Tăng phòng thủ + 14
+TextVN_DanhHieu74 =	Tăng thể lực + 14000
+TextVN_DanhHieu75 =	Tăng SD + 14000
+//======================================================
+TextVN_DanhHieu76 =	Sát thương + 1500
+TextVN_DanhHieu77 =	Tỷ lệ sát thương x2 + 15
+TextVN_DanhHieu78 =	Tăng phòng thủ + 15
+TextVN_DanhHieu79 =	Tăng thể lực + 15000
+TextVN_DanhHieu80 =	Tăng SD + 15000
+//======================================================
+TextVN_DanhHieu81 =	Sát thương + 2000
+TextVN_DanhHieu82 =	Tỷ lệ sát thương x2 + 20
+TextVN_DanhHieu83 =	Tăng phòng thủ + 20
+TextVN_DanhHieu84 =	Tăng thể lực + 20000
+TextVN_DanhHieu85 =	Tăng SD + 20000
+
+//=====================================================================================================================
+[TextVN_TuLuyen]
+TextVN_TuLuyen0 =	Yêu cầu
+TextVN_TuLuyen1 =	%d WCoinC
+TextVN_TuLuyen2 =   1 lần nâng cấp
+TextVN_TuLuyen3 =	Nâng cấp Tu Luyện
+TextVN_TuLuyen4 =	Cấp độ %d / 40
+TextVN_TuLuyen5 =	%d / 2000000
+//======================================================
+TextVN_TuLuyen6 =	Sát thương + 100
+TextVN_TuLuyen7 =	Tỷ lệ sát thương x3 + 1
+TextVN_TuLuyen8 =	Sát thương hoàn hảo + 1
+TextVN_TuLuyen9 =	Tăng thể lực + 1000
+TextVN_TuLuyen10 =	Tăng SD + 1000
+//======================================================
+TextVN_TuLuyen11 =	Sát thương + 200
+TextVN_TuLuyen12 =	Tỷ lệ sát thương x3 + 2
+TextVN_TuLuyen13 =	Sát thương hoàn hảo + 2
+TextVN_TuLuyen14 =	Tăng thể lực + 2000
+TextVN_TuLuyen15 =	Tăng SD + 2000
+//======================================================
+TextVN_TuLuyen16 =	Sát thương + 300
+TextVN_TuLuyen17 =	Tỷ lệ sát thương x3 + 3
+TextVN_TuLuyen18 =	Sát thương hoàn hảo + 3
+TextVN_TuLuyen19 =	Tăng thể lực + 3000
+TextVN_TuLuyen20 =	Tăng SD + 3000
+//======================================================
+TextVN_TuLuyen21 =	Sát thương + 400
+TextVN_TuLuyen22 =	Tỷ lệ sát thương x3 + 4
+TextVN_TuLuyen23 =	Sát thương hoàn hảo + 4
+TextVN_TuLuyen24 =	Tăng thể lực + 4000
+TextVN_TuLuyen25 =	Tăng SD + 4000
+//======================================================
+TextVN_TuLuyen26 =	Sát thương + 500
+TextVN_TuLuyen27 =	Tỷ lệ sát thương x3 + 5
+TextVN_TuLuyen28 =	Sát thương hoàn hảo + 5
+TextVN_TuLuyen29 =	Tăng thể lực + 5000
+TextVN_TuLuyen30 =	Tăng SD + 5000
+//======================================================
+TextVN_TuLuyen31 =	Sát thương + 600
+TextVN_TuLuyen32 =	Tỷ lệ sát thương x3 + 6
+TextVN_TuLuyen33 =	Sát thương hoàn hảo + 6
+TextVN_TuLuyen34 =	Tăng thể lực + 6000
+TextVN_TuLuyen35 =	Tăng SD + 6000
+//======================================================
+TextVN_TuLuyen36 =	Sát thương + 700
+TextVN_TuLuyen37 =	Tỷ lệ sát thương x3 + 7
+TextVN_TuLuyen38 =	Sát thương hoàn hảo + 7
+TextVN_TuLuyen39 =	Tăng thể lực + 7000
+TextVN_TuLuyen40 =	Tăng SD + 7000
+//======================================================
+TextVN_TuLuyen41 =	Sát thương + 800
+TextVN_TuLuyen42 =	Tỷ lệ sát thương x3 + 8
+TextVN_TuLuyen43 =	Sát thương hoàn hảo + 8
+TextVN_TuLuyen44 =	Tăng thể lực + 8000
+TextVN_TuLuyen45 =	Tăng SD + 8000
+//======================================================
+TextVN_TuLuyen46 =	Sát thương + 900
+TextVN_TuLuyen47 =	Tỷ lệ sát thương x3 + 9
+TextVN_TuLuyen48 =	Sát thương hoàn hảo + 9
+TextVN_TuLuyen49 =	Tăng thể lực + 9000
+TextVN_TuLuyen50 =	Tăng SD + 9000
+//======================================================
+TextVN_TuLuyen51 =	Sát thương + 1000
+TextVN_TuLuyen52 =	Tỷ lệ sát thương x3 + 10
+TextVN_TuLuyen53 =	Sát thương hoàn hảo + 10
+TextVN_TuLuyen54 =	Tăng thể lực + 10000
+TextVN_TuLuyen55 =	Tăng SD + 10000
+//======================================================
+TextVN_TuLuyen56 =	Sát thương + 1100
+TextVN_TuLuyen57 =	Tỷ lệ sát thương x3 + 11
+TextVN_TuLuyen58 =	Sát thương hoàn hảo + 11
+TextVN_TuLuyen59 =	Tăng thể lực + 11000
+TextVN_TuLuyen60 =	Tăng SD + 11000
+//======================================================
+TextVN_TuLuyen61 =	Sát thương + 1200
+TextVN_TuLuyen62 =	Tỷ lệ sát thương x3 + 12
+TextVN_TuLuyen63 =	Sát thương hoàn hảo + 12
+TextVN_TuLuyen64 =	Tăng thể lực + 12000
+TextVN_TuLuyen65 =	Tăng SD + 12000
+//======================================================
+TextVN_TuLuyen66 =	Sát thương + 1300
+TextVN_TuLuyen67 =	Tỷ lệ sát thương x3 + 13
+TextVN_TuLuyen68 =	Sát thương hoàn hảo + 13
+TextVN_TuLuyen69 =	Tăng thể lực + 13000
+TextVN_TuLuyen70 =	Tăng SD + 13000
+//======================================================
+TextVN_TuLuyen71 =	Sát thương + 1400
+TextVN_TuLuyen72 =	Tỷ lệ sát thương x3 + 14
+TextVN_TuLuyen73 =	Sát thương hoàn hảo + 14
+TextVN_TuLuyen74 =	Tăng thể lực + 14000
+TextVN_TuLuyen75 =	Tăng SD + 14000
+//======================================================
+TextVN_TuLuyen76 =	Sát thương + 1500
+TextVN_TuLuyen77 =	Tỷ lệ sát thương x3 + 15
+TextVN_TuLuyen78 =	Sát thương hoàn hảo + 15
+TextVN_TuLuyen79 =	Tăng thể lực + 15000
+TextVN_TuLuyen80 =	Tăng SD + 15000
+//======================================================
+TextVN_TuLuyen81 =	Sát thương + 1600
+TextVN_TuLuyen82 =	Tỷ lệ sát thương x3 + 16
+TextVN_TuLuyen83 =	Sát thương hoàn hảo + 16
+TextVN_TuLuyen84 =	Tăng thể lực + 16000
+TextVN_TuLuyen85 =	Tăng SD + 16000
+//======================================================
+TextVN_TuLuyen86 =	Sát thương + 1700
+TextVN_TuLuyen87 =	Tỷ lệ sát thương x3 + 17
+TextVN_TuLuyen88 =	Sát thương hoàn hảo + 17
+TextVN_TuLuyen89 =	Tăng thể lực + 17000
+TextVN_TuLuyen90 =	Tăng SD + 17000
+//======================================================
+TextVN_TuLuyen91 =	Sát thương + 1800
+TextVN_TuLuyen92 =	Tỷ lệ sát thương x3 + 18
+TextVN_TuLuyen93 =	Sát thương hoàn hảo + 18
+TextVN_TuLuyen94 =	Tăng thể lực + 18000
+TextVN_TuLuyen95 =	Tăng SD + 18000
+//======================================================
+TextVN_TuLuyen96 =	Sát thương + 1900
+TextVN_TuLuyen97 =	Tỷ lệ sát thương x3 + 19
+TextVN_TuLuyen98 =	Sát thương hoàn hảo + 19
+TextVN_TuLuyen99 =	Tăng thể lực + 19000
+TextVN_TuLuyen100 =	Tăng SD + 19000
+//======================================================
+TextVN_TuLuyen101 =	Sát thương + 2000
+TextVN_TuLuyen102 =	Tỷ lệ sát thương x3 + 20
+TextVN_TuLuyen103 =	Sát thương hoàn hảo + 20
+TextVN_TuLuyen104 =	Tăng thể lực + 20000
+TextVN_TuLuyen105 =	Tăng SD + 20000
+//======================================================
+TextVN_TuLuyen106 =	Sát thương + 2100
+TextVN_TuLuyen107 =	Tỷ lệ sát thương x3 + 21
+TextVN_TuLuyen108 =	Sát thương hoàn hảo + 21
+TextVN_TuLuyen109 =	Tăng thể lực + 21000
+TextVN_TuLuyen110 =	Tăng SD + 21000
+//======================================================
+TextVN_TuLuyen111 =	Sát thương + 2200
+TextVN_TuLuyen112 =	Tỷ lệ sát thương x3 + 22
+TextVN_TuLuyen113 =	Sát thương hoàn hảo + 22
+TextVN_TuLuyen114 =	Tăng thể lực + 22000
+TextVN_TuLuyen115 =	Tăng SD + 22000
+//======================================================
+TextVN_TuLuyen116 =	Sát thương + 2300
+TextVN_TuLuyen117 =	Tỷ lệ sát thương x3 + 23
+TextVN_TuLuyen118 =	Sát thương hoàn hảo + 23
+TextVN_TuLuyen119 =	Tăng thể lực + 23000
+TextVN_TuLuyen120 =	Tăng SD + 23000
+//======================================================
+TextVN_TuLuyen121 =	Sát thương + 2400
+TextVN_TuLuyen122 =	Tỷ lệ sát thương x3 + 24
+TextVN_TuLuyen123 =	Sát thương hoàn hảo + 24
+TextVN_TuLuyen124 =	Tăng thể lực + 24000
+TextVN_TuLuyen125 =	Tăng SD + 24000
+//======================================================
+TextVN_TuLuyen126 =	Sát thương + 2500
+TextVN_TuLuyen127 =	Tỷ lệ sát thương x3 + 25
+TextVN_TuLuyen128 =	Sát thương hoàn hảo + 25
+TextVN_TuLuyen129 =	Tăng thể lực + 25000
+TextVN_TuLuyen130 =	Tăng SD + 25000
+//======================================================
+TextVN_TuLuyen131 =	Sát thương + 2600
+TextVN_TuLuyen132 =	Tỷ lệ sát thương x3 + 26
+TextVN_TuLuyen133 =	Sát thương hoàn hảo + 26
+TextVN_TuLuyen134 =	Tăng thể lực + 26000
+TextVN_TuLuyen135 =	Tăng SD + 26000
+//======================================================
+TextVN_TuLuyen136 =	Sát thương + 2700
+TextVN_TuLuyen137 =	Tỷ lệ sát thương x3 + 27
+TextVN_TuLuyen138 =	Sát thương hoàn hảo + 27
+TextVN_TuLuyen139 =	Tăng thể lực + 27000
+TextVN_TuLuyen140 =	Tăng SD + 27000
+//======================================================
+TextVN_TuLuyen141 =	Sát thương + 2800
+TextVN_TuLuyen142 =	Tỷ lệ sát thương x3 + 28
+TextVN_TuLuyen143 =	Sát thương hoàn hảo + 28
+TextVN_TuLuyen144 =	Tăng thể lực + 28000
+TextVN_TuLuyen145 =	Tăng SD + 28000
+//======================================================
+TextVN_TuLuyen146 =	Sát thương + 2900
+TextVN_TuLuyen147 =	Tỷ lệ sát thương x3 + 29
+TextVN_TuLuyen148 =	Sát thương hoàn hảo + 29
+TextVN_TuLuyen149 =	Tăng thể lực + 29000
+TextVN_TuLuyen150 =	Tăng SD + 29000
+//======================================================
+TextVN_TuLuyen151 =	Sát thương + 3000
+TextVN_TuLuyen152 =	Tỷ lệ sát thương x3 + 30
+TextVN_TuLuyen153 =	Sát thương hoàn hảo + 30
+TextVN_TuLuyen154 =	Tăng thể lực + 30000
+TextVN_TuLuyen155 =	Tăng SD + 30000
+//======================================================
+TextVN_TuLuyen156 =	Sát thương + 3100
+TextVN_TuLuyen157 =	Tỷ lệ sát thương x3 + 31
+TextVN_TuLuyen158 =	Sát thương hoàn hảo + 31
+TextVN_TuLuyen159 =	Tăng thể lực + 31000
+TextVN_TuLuyen160 =	Tăng SD + 31000
+//======================================================
+TextVN_TuLuyen161 =	Sát thương + 3200
+TextVN_TuLuyen162 =	Tỷ lệ sát thương x3 + 32
+TextVN_TuLuyen163 =	Sát thương hoàn hảo + 32
+TextVN_TuLuyen164 =	Tăng thể lực + 32000
+TextVN_TuLuyen165 =	Tăng SD + 32000
+//======================================================
+TextVN_TuLuyen166 =	Sát thương + 3300
+TextVN_TuLuyen167 =	Tỷ lệ sát thương x3 + 33
+TextVN_TuLuyen168 =	Sát thương hoàn hảo + 33
+TextVN_TuLuyen169 =	Tăng thể lực + 33000
+TextVN_TuLuyen170 =	Tăng SD + 33000
+//======================================================
+TextVN_TuLuyen171 =	Sát thương + 3400
+TextVN_TuLuyen172 =	Tỷ lệ sát thương x3 + 34
+TextVN_TuLuyen173 =	Sát thương hoàn hảo + 34
+TextVN_TuLuyen174 =	Tăng thể lực + 34000
+TextVN_TuLuyen175 =	Tăng SD + 34000
+//======================================================
+TextVN_TuLuyen176 =	Sát thương + 3500
+TextVN_TuLuyen177 =	Tỷ lệ sát thương x3 + 35
+TextVN_TuLuyen178 =	Sát thương hoàn hảo + 35
+TextVN_TuLuyen179 =	Tăng thể lực + 35000
+TextVN_TuLuyen180 =	Tăng SD + 35000
+//======================================================
+TextVN_TuLuyen181 =	Sát thương + 3600
+TextVN_TuLuyen182 =	Tỷ lệ sát thương x3 + 36
+TextVN_TuLuyen183 =	Sát thương hoàn hảo + 36
+TextVN_TuLuyen184 =	Tăng thể lực + 36000
+TextVN_TuLuyen185 =	Tăng SD + 36000
+//======================================================
+TextVN_TuLuyen186 =	Sát thương + 3700
+TextVN_TuLuyen187 =	Tỷ lệ sát thương x3 + 37
+TextVN_TuLuyen188 =	Sát thương hoàn hảo + 37
+TextVN_TuLuyen189 =	Tăng thể lực + 37000
+TextVN_TuLuyen190 =	Tăng SD + 37000
+//======================================================
+TextVN_TuLuyen191 =	Sát thương + 3800
+TextVN_TuLuyen192 =	Tỷ lệ sát thương x3 + 38
+TextVN_TuLuyen193 =	Sát thương hoàn hảo + 38
+TextVN_TuLuyen194 =	Tăng thể lực + 38000
+TextVN_TuLuyen195 =	Tăng SD + 38000
+//======================================================
+TextVN_TuLuyen196 =	Sát thương + 3900
+TextVN_TuLuyen197 =	Tỷ lệ sát thương x3 + 39
+TextVN_TuLuyen198 =	Sát thương hoàn hảo + 39
+TextVN_TuLuyen199 =	Tăng thể lực + 39000
+TextVN_TuLuyen200 =	Tăng SD + 39000
+//======================================================
+TextVN_TuLuyen201 =	Sát thương + 4000
+TextVN_TuLuyen202 =	Tỷ lệ sát thương x3 + 40
+TextVN_TuLuyen203 =	Sát thương hoàn hảo + 40
+TextVN_TuLuyen204 =	Tăng thể lực + 40000
+TextVN_TuLuyen205 =	Tăng SD + 40000
+//======================================================
